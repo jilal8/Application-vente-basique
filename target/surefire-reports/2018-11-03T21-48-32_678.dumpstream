@@ -1,0 +1,6 @@
+# Created on 2018-11-03T21:48:32.679
+Erreur : impossible de trouver ou de charger la classe principale org.apache.maven.surefire.booter.ForkedBooter
+
+# Created on 2018-11-03T21:48:32.679
+Causé par : java.lang.ClassNotFoundException: org.apache.maven.surefire.booter.ForkedBooter
+
